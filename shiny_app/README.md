@@ -20,6 +20,7 @@ setAccountInfo()
 (you need to get a token from shiny)
 
 
+then upload app
 ```
 deployApp()
 ```
