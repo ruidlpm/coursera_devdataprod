@@ -1,7 +1,7 @@
 Simple app for Coursera's Developing Data Products.
 
 
-https://ruidlpm.shinyapps.io/devdatprod
+https://ruidlpm.shinyapps.io/shiny_app
 
 
 
