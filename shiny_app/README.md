@@ -14,7 +14,12 @@ https://github.com/rstudio/rsconnect
 
 
 first:
-```setAccountInfo()  ```
+```
+setAccountInfo() 
+```
 (you need to get a token from shiny)
 
-```deployApp()```
+
+```
+deployApp()
+```
