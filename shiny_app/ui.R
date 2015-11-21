@@ -1,10 +1,11 @@
+
 shinyUI(bootstrapPage(
 
   plotOutput(outputId = "main_plot"),
 
-	sliderInput(inputId = "bw_adjust",
+	sliderInput(inputId = "Year",
         label = "Adjustment:",
-        min = 10, max = 1000, value = 10, step = 10)
+        min = 1965, max = 2014, value = 1965, step = 1)
   )
 
 )
